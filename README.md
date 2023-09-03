@@ -1,4 +1,4 @@
-# Repositorio_Demo
+# Material del Diplomado
 Mi primer repositorio de ejemplo
 
 ## Introducción
